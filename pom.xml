@@ -21,8 +21,13 @@
     <dependency>
       <groupId>org.apache.poi</groupId>
       <artifactId>poi</artifactId>
-      <version>3.7</version>
+      <version>3.9</version>
     </dependency>
+	<dependency>
+		<groupId>org.nutz</groupId>
+		<artifactId>nutz</artifactId>
+		<version>1.b.47</version>
+	</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
